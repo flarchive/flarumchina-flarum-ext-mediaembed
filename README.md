@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of flarumchina/flarum-ext-mediaembed.** Not for installation: use [Packagist](https://packagist.org/packages/flarumchina/flarum-ext-mediaembed) or the [upstream repository](https://github.com/FlarumChina/flarum-ext-mediaembed).
 
-**0** versions archived · Latest: [`0.3.6`](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.6) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**7** versions archived · Latest: [`0.3.6`](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.6) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2015-11-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.0) |
+| `0.3.1` | 2015-11-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.1) |
+| `0.3.2` | 2015-12-04 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.2) |
+| `0.3.3` | 2017-04-03 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.3) |
+| `0.3.4` | 2017-07-31 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.4) |
+| `0.3.5` | 2017-08-16 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.5) |
+| `0.3.6` | 2018-02-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-mediaembed/tree/archive/v0.3.6) |
 
 Catalog entry: [packages/flarumchina-flarum-ext-mediaembed.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumchina-flarum-ext-mediaembed.json)
 
